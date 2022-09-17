@@ -8,7 +8,7 @@ In this project I have tried to demonstrate the use of Machine Learning in busin
 
 Unsupervised Learning(Clustering) is used to find the hidden data patterns or structures which can be used by an organization(like mall, shopping complexes etc) to target the right audience and hence increase profit margin.
 
-In this study, *k-means* and *agglomerative* models were used. The performance and accuracy of both models were good.
+In this study, *k-means* and *agglomerative* models were used. In both cases, performance and accuracy were good, and the models segmented customers based on income and spending.
 
 The features in the dataset are explained below :
 
